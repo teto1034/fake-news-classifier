@@ -2,7 +2,7 @@
 
 **Projeto Final – Ciclo Básico 2026.2 · Insper Data**
 
-Integrantes: Mateus Pratas Oliveira e **[NOME DO(A) INTEGRANTE 2]**
+Integrantes: Mateus Pratas Oliveira e Renan Yujikawa
 
 ---
 
